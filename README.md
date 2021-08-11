@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](#)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Nux_xader)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Nux-xader)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Nux-xader) <img src="https://img.shields.io/github/followers/alfathir?label=Follow" style=" float:left, margin-right:10px"/>
 
 I'm a Software Developer With Experience on Bot Development, Tools, API, IoT.
 
