@@ -18,11 +18,11 @@ While developing some of these things I learned about Artificial Intelligence / 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning IoT, and Artificial Intelligence
-- 💬 Ask me about anything, I am happy to help;
-- 🎥 I sometimes make video tutorials on [You Tube](https://www.youtube.com/channel/UCRSsylbWSSHfdZLK9_VvHqg);
-- 📫 How to reach me: rsayria@gmail.com;
+- 💬 Ask me about anything, I am happy to help
+- 🎥 I sometimes make video tutorials on [You Tube](https://www.youtube.com/channel/UCRSsylbWSSHfdZLK9_VvHqg)
+- 📫 How to reach me: rsayria@gmail.com
 
 </br>
 
