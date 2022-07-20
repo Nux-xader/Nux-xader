@@ -53,9 +53,5 @@ Learn IoT, Mikrotik, Artificial intelligence, Java Script, and Creating bots.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nux-xader&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nux-xader&radical"
-    alt="thespeedx" />
-</p>
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nux-xader&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=nightowl"/>
 </p>
