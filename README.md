@@ -55,4 +55,7 @@ Learn IoT, Mikrotik, Artificial intelligence, Java Script, and Creating bots.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nux-xader&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nux-xader&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=nightowl"/>
 </p>
+
+---
+
 [![@nux_xader's Holopin board](https://holopin.io/api/user/board?user=nux_xader)](https://holopin.io/@nux_xader)
