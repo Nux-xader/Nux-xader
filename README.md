@@ -28,7 +28,7 @@ While developing some of these things I learned about Artificial Intelligence / 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I’m currently learning IoT, and Artificial Intelligence
+- 🚀 I’m currently learning Cyber Security, and Dev Ops
 - 💬 Ask me about anything, I am happy to help
 - 🎥 I sometimes make video tutorials on [You Tube](https://www.youtube.com/channel/UCRSsylbWSSHfdZLK9_VvHqg)
 - 📫 How to reach me: rsayria@gmail.com
@@ -38,7 +38,7 @@ While developing some of these things I learned about Artificial Intelligence / 
 📊 **This Years I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Learn IoT, Mikrotik, Artificial intelligence, Java Script, and Creating bots.
+Learn Cyber Security, Dev Ops, Java Script, and Creating bots.
 ```
 <!--END_SECTION:waka-->
 ---
