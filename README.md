@@ -38,7 +38,7 @@ While developing some of these things I learned about Artificial Intelligence / 
 📊 **This Years I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Learn Cyber Security, Dev Ops, Java Script, and Creating bots.
+Learn Cyber Security, Dev Ops, Java Script, Golang, and Automation.
 ```
 <!--END_SECTION:waka-->
 ---
