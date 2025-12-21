@@ -38,7 +38,7 @@ While developing some of these things I learned about Artificial Intelligence / 
 📊 **This Years I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Learn Block Chain, Cyber Security, Java Script, Rust, and Automation.
+Learn Block Chain, Cyber Security, Rust, and Reverse Engineering.
 ```
 <!--END_SECTION:waka-->
 ---
